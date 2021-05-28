@@ -1,0 +1,9 @@
+main: fr.nathan.randomchest.Main
+version: 1.0
+name: RandomChest
+author: Nathan
+commands:
+  RandomChest:
+    description: Je sais pas comment la décrire ;-;
+    permission: rc.use
+    api-version: 1.14
